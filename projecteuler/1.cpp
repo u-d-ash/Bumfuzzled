@@ -32,7 +32,6 @@ ll sum(ll n){
     return (n * (n + 1))/2;
 }
 
-
 int main(){
     auto start = high_resolution_clock::now();
     ios_base::sync_with_stdio(false);
