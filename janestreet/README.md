@@ -2,7 +2,7 @@
 
 An [archive](https://www.janestreet.com/puzzles/) of amazing, mostly wacky, mathematical and logical puzzles. 
 
-##### Feb 2024 [SOLVED]
+##### Feb 2025 [SOLVED]
 
 * Did they want to test reverse engineering skills with this one?
 
