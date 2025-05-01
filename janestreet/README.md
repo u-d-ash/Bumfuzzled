@@ -2,6 +2,10 @@
 
 An [archive](https://www.janestreet.com/puzzles/) of amazing, mostly wacky, mathematical and logical puzzles. 
 
+##### Apr 2025 [SOLVED]
+
+* "Easy Peasy Japaneasy" - Palash Ghosh, Spring 2025
+
 ##### Feb 2025 [SOLVED]
 
 * Did they want to test reverse engineering skills with this one?
