@@ -1,7 +1,5 @@
 ### Jane Street | Puzzles
 
-An [archive](https://www.janestreet.com/puzzles/) of amazing, mostly wacky, mathematical and logical puzzles. 
-
 ##### Oct 2025 [SOLVED]
 
 * It feels good to be back on the leaderboard !
